@@ -1,5 +1,7 @@
 # Simple TypeScript Script Example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/divyenduz/p2-netlify.svg)](https://greenkeeper.io/)
+
 This example shows how to use [Photon.js](https://photonjs.prisma.io/) in a **simple TypeScript script** to read and write data in a database.
 
 ## How to use
